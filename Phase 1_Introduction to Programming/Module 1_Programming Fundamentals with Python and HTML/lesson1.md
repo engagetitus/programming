@@ -8,7 +8,7 @@
 - Introduction to Python and HTML
 
 ### What is Programming?
-Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using various languages such as Python, JavaScript, Java, C++, etc.
+Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using various languages such as Python, JavaScript, Java, C++,C#,Ruby,Dart etc.
 
 ### Why Learn Programming?
 - Problem-solving skills

@@ -86,3 +86,72 @@ for i in range(10):
 - Create a Python script that asks the user for a number and prints whether it's prime or not
 ### Q&A
 Any questions about today's lesson?
+
+### LABWORK
+```
+print('Lesson 1');
+#python - comments
+name = 'Kenya' #variable - storage point
+print(name) # what was saved in name
+print('name') # name
+
+```
+
+```
+# Conditional Statements
+credit_limit = 10000
+application = 2000
+## Logical Operators
+# == - equal To
+# != - note Equal
+# < less than
+# <= less than or equal to
+if application <=  credit_limit : # != not equal To
+  print("Loan Them")
+else :
+  print('Deny Request')
+
+```
+
+```
+# Mpesa Transactions
+balance = 500
+transact = 1000
+fuliza = 1000
+
+if transact < balance : # whether balance is sufficient
+  print("Transaction Complete")
+  print(transact < balance)
+elif fuliza+balance > transact : # checks if limit exceeded
+  print("Fuliza ")
+  print(fuliza+balance > transact)
+else:
+  print("Insufficient Balance")
+
+```
+
+```
+#Looping - while, for
+#for.
+months = ["July", "aug", 30, 189.9]
+months
+
+for i in months:
+  print(i)
+
+```
+
+```
+transactions = [10000,4000,6000]
+total = 0; # starting 
+for t in transactions:
+  total = total+t 
+  print(t)
+
+print(total)
+customer = " John" 
+
+# Concatenation - join variable
+print("Hello "+ customer + f" Your Total Is {total}")
+
+```

@@ -72,3 +72,5 @@ print("Hello, " + name + "!")
 - Create a list of your favorite movies and print it
 ### Q&A
 Any questions about today's lesson?
+
+SG36EPHSPM Confirmed. Ksh20.00 sent to RUTH   071 on 3/7/24 at 8:58 AM. New M-PESA balance is Ksh1,. Transaction cost, Ksh0.00. Amount you can transact within the day is 499,965.00. Send Kes200 or more on MPESA for a chance to win 1M WEEKLY with Shine Kenya Mamili!

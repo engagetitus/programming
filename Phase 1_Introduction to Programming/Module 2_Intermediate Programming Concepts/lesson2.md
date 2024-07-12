@@ -12,9 +12,6 @@
 
 ### 1. Classes and Objects
 
-Here’s the updated explanation with Flutter included in the list of OOP languages and an example tailored for someone in the finance sector:
-
----
 
 ### Object-Oriented Programming (OOP)
 
